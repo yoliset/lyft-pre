@@ -1,0 +1,60 @@
+
+#icon{
+     border-radius: 50%;
+     font-size: 20px;
+     border: 1px solid black;
+    position: relative;
+    top: 8px;
+}
+input{
+    width: 100%;
+    color: white;
+    background-color: navy;
+    padding: 12px 0px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+#map{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	background-repeat:no-repeat;
+	clear: both;
+}
+.panel-body {
+    padding: 0px;
+}
+.panel-default {
+    border-radius: 15px;
+}
+.cajita 
+{
+	width: 98%;
+	position: absolute;
+    left: 50%;
+    top: 90%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+img{
+    width: 50px;
+}
+.i{
+   padding-left: 52px;
+    position: relative;
+    top: -5px;
+    color: teal;
+    font-size: 12px;
+}
+.input-group-addon{
+    background-color: white;
+    border-radius: 18px;
+}
+p{
+    width: 210px;
+}
+.letra{
+    font-size: 14px;
+    font-family: cursive;
+    color: darkgray;
+}

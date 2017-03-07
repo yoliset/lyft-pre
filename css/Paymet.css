@@ -1,0 +1,53 @@
+
+
+body {
+    font-family: "Merriweather", serif;
+}
+p, a {
+    font-family: "Open Sans", sans-serif;
+}
+
+/*------------------------------------- HERO  */
+
+input{
+    width: 100%;
+    background-color: dimgrey;
+    color: white;
+    padding: 15px 0px;
+}
+
+hr{
+    border:1px solid rgba(105, 105, 105, 0.31);
+}
+img{
+
+    border-radius: 50%;
+}
+#imagen{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.boton{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.precio{
+    text-align: center;
+    padding-bottom: 100px;
+}
+h4{
+    position: relative;
+    top: 4px;
+    display: inline-block;
+}
+.btn-danger {
+    background-color: #ea0eb3;
+    border-color: #fe00c1;
+}
+p{
+    position: relative;
+    top: 4px;
+    left: 42px;
+}
+
